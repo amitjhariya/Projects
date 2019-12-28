@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/think/static/css/main.52fc556f.chunk.css",
+    "main.js": "/think/static/js/main.bda68a5f.chunk.js",
+    "main.js.map": "/think/static/js/main.bda68a5f.chunk.js.map",
+    "runtime-main.js": "/think/static/js/runtime-main.3431ebad.js",
+    "runtime-main.js.map": "/think/static/js/runtime-main.3431ebad.js.map",
+    "static/js/2.8965f755.chunk.js": "/think/static/js/2.8965f755.chunk.js",
+    "static/js/2.8965f755.chunk.js.map": "/think/static/js/2.8965f755.chunk.js.map",
+    "index.html": "/think/index.html",
+    "precache-manifest.bd1b2b756fca5a8f8ffddc08a2772b72.js": "/think/precache-manifest.bd1b2b756fca5a8f8ffddc08a2772b72.js",
+    "service-worker.js": "/think/service-worker.js",
+    "static/css/main.52fc556f.chunk.css.map": "/think/static/css/main.52fc556f.chunk.css.map",
+    "static/js/2.8965f755.chunk.js.LICENSE": "/think/static/js/2.8965f755.chunk.js.LICENSE",
+    "static/media/mySvg.svg": "/think/static/media/mySvg.0e137e1a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3431ebad.js",
+    "static/js/2.8965f755.chunk.js",
+    "static/css/main.52fc556f.chunk.css",
+    "static/js/main.bda68a5f.chunk.js"
+  ]
+}
