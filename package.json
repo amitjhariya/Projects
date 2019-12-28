@@ -1,0 +1,50 @@
+{
+  "name": "alina",
+  "homepage": "https://amitjhariya.github.io/think/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "gsap": "^3.0.4",
+    "react": "^16.12.0",
+    "react-bootstrap-slider": "^2.2.2",
+    "react-color": "^2.17.3",
+    "react-compound-slider": "^2.4.0",
+    "react-dom": "^16.12.0",
+    "react-download-svg": "0.0.4",
+    "react-gsap": "^1.2.0",
+    "react-input-slider": "^5.1.4",
+    "react-ionicons": "^3.1.4",
+    "react-scripts": "3.3.0",
+    "react-string-replace": "^0.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "gh-pages": "^2.1.1"
+  }
+}
